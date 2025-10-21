@@ -14,6 +14,7 @@
   - [Python](https://www.python.org/)
   - [Jupyter Notebook](https://jupyter.org/) or [Visual Studio Code](https://code.visualstudio.com/)
   - [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
 
 - **Resources**
   - [Pandas Official Documentation](https://pandas.pydata.org/docs/)
