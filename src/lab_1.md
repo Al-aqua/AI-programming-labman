@@ -13,8 +13,7 @@
 
 - **Tools**
   - [Python](https://www.python.org/)
-  - [Jupyter Notebook](https://jupyter.org/)
-  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Jupyter Notebook](https://jupyter.org/) or [Visual Studio Code](https://code.visualstudio.com/)
 
 - **Resources**
   - [Python Documentation](https://docs.python.org/3/)
