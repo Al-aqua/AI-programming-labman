@@ -1,0 +1,11 @@
+ItemID,ItemName,Quantity,ReorderLevel,UnitPrice
+001,Monitor,15,5,300
+002,Keyboard,45,10,60
+003,Mouse,80,20,25
+004,Desk,8,2,150
+005,Chair,30,10,75
+006,Laptop,5,2,800
+007,Printer,3,1,400
+008,Scanner,6,2,350
+009,Desk Lamp,20,5,45
+010,USB Cable,150,50,5

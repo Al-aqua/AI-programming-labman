@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Salary,Department,JoinDate,Status
+1,Ahmed,Hassan,3500,IT,2020-01-15,Active
+2,Fatima,Ali,3200,HR,2019-06-20,Active
+3,Ali,Mahmoud,2800,IT,2021-03-10,Active
+4,Layla,Ibrahim,4000,Finance,2018-11-05,Active
+5,Hassan,Noor,3100,IT,2020-09-12,Active
+6,Noor,Khalid,2900,HR,2021-01-22,Active
+7,Mariam,Saeed,3800,Finance,2019-05-30,Active
+8,Zainab,Omar,3600,IT,2020-07-18,Active
+9,Mohammed,Rashed,2700,HR,2021-04-15,Inactive
+10,Sara,Yaseen,4200,Finance,2017-12-01,Active

@@ -1,0 +1,11 @@
+ProductID,Product,Price,Quantity,Category
+1,Laptop,800,5,Electronics
+2,Desk,150,12,Furniture
+3,Chair,75,25,Furniture
+4,Mouse,25,40,Electronics
+5,Monitor,300,8,Electronics
+6,Keyboard,60,35,Electronics
+7,Desk Lamp,45,18,Furniture
+8,USB Hub,35,50,Electronics
+9,Office Cabinet,200,6,Furniture
+10,Webcam,80,22,Electronics
