@@ -5,3 +5,4 @@
 - [Lab 2: Dataset Manipulation with Python](./lab_2.md)
 - [Lab 3: Data Summaries & Descriptive Statistics](./lab_3.md)
 - [Lab 4: Central Tendency & Distribution Analysis](./lab_4.md)
+- [Lab 5: Data Visualization Techniques](./lab_5.md)
