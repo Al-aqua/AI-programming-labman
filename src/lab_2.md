@@ -14,7 +14,7 @@
   - [Python](https://www.python.org/)
   - [Jupyter Notebook](https://jupyter.org/) or [Visual Studio Code](https://code.visualstudio.com/)
   - [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
+  - [NumPy](https://numpy.org/)
 
 - **Resources**
   - [Pandas Official Documentation](https://pandas.pydata.org/docs/)
@@ -31,7 +31,6 @@ Pandas is a powerful library for data manipulation and analysis. DataFrames are 
 #### 1.1 Code Example
 
 ```python
-import numpy as np
 import pandas as pd
 
 # Creating a DataFrame from a dictionary

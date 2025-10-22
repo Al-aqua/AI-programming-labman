@@ -14,7 +14,6 @@
   - [Python](https://www.python.org/)
   - [Jupyter Notebook](https://jupyter.org/) or [Visual Studio Code](https://code.visualstudio.com/)
   - [Pandas](https://pandas.pydata.org/)
-  - [NumPy](https://numpy.org/)
 
 - **Resources**
   - [Pandas: How to calculate summary statistics](https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html) - Official Pandas tutorial with real-world examples
@@ -220,7 +219,6 @@ Percentiles divide data into 100 parts; quartiles divide into 4 parts.
 #### 4.1 Code Example
 
 ```python
-import numpy as np
 import pandas as pd
 
 # Sample exam scores
