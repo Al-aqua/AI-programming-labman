@@ -1,119 +1,205 @@
-# AI Programming Course - Practical Lab Outline
+# AI Programming Course - Practical Labs
 
-### **Lab 1: Python Fundamentals & Data Types**
-
-**Objectives:** Master basic Python programming concepts
-
-- Variable declaration and data types (int, float, string, bool)
-- Control structures (if/else statements, loops)
-- Functions and basic syntax
-- **Deliverable:** Write scripts demonstrating loops and conditional logic
+**Course:** Programming for Artificial Intelligence  
+**Level:** Second Year, Second Semester  
+**Total Labs:** 11
 
 ---
 
-### **Lab 2: Dataset Manipulation with Python**
+## Lab 1: Introduction to NumPy & SciPy
 
-**Objectives:** Learn to load, clean, and manipulate datasets
+**Objectives:**
 
-- Loading CSV/Excel files using Pandas
-- Data exploration and basic operations
-- Handling missing values
-- **Deliverable:** Process a sample dataset and generate summary report
+- Install and set up Python environment
+- Work with NumPy arrays
+- Basic mathematical operations
+- Introduction to SciPy functions
 
----
+**Exercises:**
 
-### **Lab 3: Data Summaries & Descriptive Statistics**
-
-**Objectives:** Calculate and interpret statistical measures
-
-- Computing mean, median, mode, max, min values
-- Understanding quartiles and ranges
-- Practice with real datasets
-- **Deliverable:** Generate statistical summary for provided dataset
+1. Create and manipulate arrays
+2. Matrix operations (addition, multiplication)
+3. Statistical functions (mean, std, variance)
+4. Simple linear algebra problems
 
 ---
 
-### **Lab 4: Central Tendency & Distribution Analysis**
+## Lab 2: Advanced NumPy Operations
 
-**Objectives:** Analyze data distribution and variation
+**Objectives:**
 
-- Calculate standard deviation and variance
-- Compute percentiles and z-scores
-- Visualize distributions
-- **Deliverable:** Analysis report with distribution plots
+- Array indexing and slicing
+- Broadcasting
+- Vectorization
 
----
+**Exercises:**
 
-### **Lab 5: Data Visualization Techniques**
-
-**Objectives:** Create effective data visualizations
-
-- Line charts, bar graphs, histograms
-- Scatter plots and box plots
-- Using Matplotlib and Seaborn libraries
-- **Deliverable:** Create 5+ visualization types from dataset
+1. Filter arrays using conditions
+2. Reshape and transpose matrices
+3. Generate random datasets
+4. Performance comparison: loops vs vectorization
 
 ---
 
-### **Lab 6: Advanced Data Representation**
+## Lab 3: Data Preprocessing with NumPy
 
-**Objectives:** Master advanced visualization and data representation
+**Objectives:**
 
-- Skewness and kurtosis analysis
-- Heatmaps and correlation matrices
-- Interactive visualizations
-- **Deliverable:** Comprehensive visualization dashboard
+- Data normalization techniques
+- Handling missing data
+- Feature scaling
 
----
+**Exercises:**
 
-### **Lab 7: Midterm Practical Assessment**
-
-**Objectives:** Apply skills from Labs 1-6
-
-- Complete practical exam combining Python, data manipulation, and visualization
-- Work on real-world dataset challenge
-- **Deliverable:** Submitted code and analysis report
+1. Normalize dataset (Min-Max, Z-score)
+2. Create one-hot encoding manually
+3. Split data into train/test sets
+4. Basic data cleaning operations
 
 ---
 
-### **Lab 8: SciPy Library Fundamentals**
+## Lab 4: Scikit-Learn - Classification Basics
 
-**Objectives:** Explore scientific computing with SciPy
+**Objectives:**
 
-- Core SciPy functions and methods
-- Statistical analysis tools
-- Integration and optimization
-- **Deliverable:** Solve 5-7 SciPy-based programming tasks
+- Load datasets
+- Train simple classifiers
+- Evaluate model performance
 
----
+**Exercises:**
 
-### **Lab 9: Scikit-Learn: Machine Learning Basics**
-
-**Objectives:** Introduction to machine learning
-
-- Data preprocessing and feature scaling
-- Supervised learning algorithms (classification, regression)
-- Model training and evaluation
-- **Deliverable:** Build and evaluate 2+ ML models
+1. Load Iris dataset
+2. Train a Decision Tree classifier
+3. Make predictions
+4. Calculate accuracy score
+5. Confusion matrix visualization
 
 ---
 
-### **Lab 10: TensorFlow & Deep Learning Introduction**
+## Lab 5: Scikit-Learn - Regression & Model Evaluation
 
-**Objectives:** Begin deep learning fundamentals
+**Objectives:**
 
-- TensorFlow basics and tensor operations
-- Building simple neural networks
-- Training and testing models
-- **Deliverable:** Create basic neural network for classification task
+- Linear regression models
+- Cross-validation
+- Model metrics
+
+**Exercises:**
+
+1. Train Linear Regression model
+2. Predict continuous values
+3. Calculate MSE, RMSE, R²
+4. K-Fold cross-validation
+5. Compare multiple models
 
 ---
 
-### **Lab 11: Final Practical Project & Assessment**
+## Lab 6: Introduction to TensorFlow/Keras
 
-**Objectives:** Integrate all learned concepts
+**Objectives:**
 
-- Develop complete AI programming project
-- Combine Python, data analysis, ML, and visualization
-- Present results and code
-- **Deliverable:** Final project report, code, and presentation
+- Install TensorFlow
+- Understand tensors
+- Basic operations
+
+**Exercises:**
+
+1. Create tensors (constants, variables)
+2. Tensor operations (add, multiply, reshape)
+3. Build a simple Sequential model
+4. Compile and summarize model
+
+---
+
+## Lab 7: Neural Networks with TensorFlow
+
+**Objectives:**
+
+- Build feedforward neural networks
+- Train on simple datasets
+
+**Exercises:**
+
+1. Load MNIST dataset
+2. Build 2-layer neural network
+3. Train model with fit()
+4. Evaluate accuracy
+5. Make predictions on test data
+
+---
+
+## Lab 8: Deep Learning - Advanced Models
+
+**Objectives:**
+
+- Build deeper networks
+- Use different activation functions
+- Implement dropout and regularization
+
+**Exercises:**
+
+1. Build 4-layer neural network
+2. Experiment with ReLU, Sigmoid, Tanh
+3. Add dropout layers
+4. Plot training history (loss, accuracy)
+
+---
+
+## Lab 9: Data Visualization with Matplotlib
+
+**Objectives:**
+
+- Create basic plots
+- Customize visualizations
+- Visualize AI model results
+
+**Exercises:**
+
+1. Line plots, scatter plots, bar charts
+2. Plot multiple subplots
+3. Visualize training curves (loss/accuracy)
+4. Plot decision boundaries
+5. Customize colors, labels, legends
+
+---
+
+## Lab 10: Advanced Visualization with Seaborn
+
+**Objectives:**
+
+- Statistical data visualization
+- Heatmaps and distributions
+
+**Exercises:**
+
+1. Distribution plots (histplot, kdeplot)
+2. Box plots and violin plots
+3. Correlation heatmap
+4. Pair plots for feature relationships
+5. Confusion matrix heatmap
+
+---
+
+## Lab 11: Complete ML Pipeline Project
+
+**Objectives:**
+
+- Combine all learned skills
+- End-to-end project
+
+**Exercises:**
+
+1. Load and explore dataset (your choice)
+2. Preprocess data (scaling, splitting)
+3. Train multiple models (Scikit-Learn + TensorFlow)
+4. Compare model performance
+5. Create visualizations of results
+6. Document findings
+
+---
+
+## Required Software:
+
+```bash
+pip install numpy scipy scikit-learn tensorflow matplotlib seaborn pandas
+```
